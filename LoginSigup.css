@@ -1,0 +1,58 @@
+.container {
+  text-align: center;
+  margin-top: 80px;
+  padding: 20px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #ddd;
+  border-radius: 90px;
+  background: #010a24;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #f3f1f1;
+  margin-bottom: 15px;
+}
+
+.inputField {
+  width: 90%;
+  padding: 20px;
+  margin: 8px 5px;
+  border: 1px solid #bbb;
+  border-radius: 20px;
+  font-size: 16px;
+}
+
+.btn {
+  background-color: #f2f8ff;
+  color: rgb(1, 17, 43);
+  padding: 10px 18px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background-color: #e9f0f7;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #f7f5f5;
+}
+
+.linkText {
+  color: #e4e7eb;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.linkText:hover {
+  text-decoration: underline;
+}
